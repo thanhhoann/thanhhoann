@@ -1,7 +1,6 @@
 ### Hi there, I'm Thanh Hoàn 👋
 <br />
 
-😆 I'm a passionate self-taught 1st year college student from Vietnam.
 
 **Languages and Tools:**  
 
