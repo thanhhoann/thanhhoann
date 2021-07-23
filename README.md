@@ -1,6 +1,7 @@
 ### Hi there, I'm Thanh Hoàn 👋
 <br />
-## I use Vim for everthing.
+
+🤞 I use Vim for everthing.
 
 
 **Languages and Tools:**  
