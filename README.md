@@ -14,6 +14,22 @@
 
 </br>
 
+<h2 align="center">⚡️ WIP</h2>
+<div align="left">
+  <a href="https://github.com/thanhhoann/piz">piz. </a>&nbsp;An experimental social media platform.
+</div>
+<div align="right">
+  <a href="https://github.com/thanhhoann/algo_visualizer">algo_visual. </a>&nbsp;A website of hand-crafted data structures & algorithms visualizers.
+</div>
+<div align="left">
+  <a href="https://github.com/thanhhoann/PokeBuy">pokebuy. </a>&nbsp;A Pokémon Card store.
+</br>
+<div align="right">
+  <a href="https://github.com/thanhhoann/notes">notes. </a>&nbsp;A note-taking website but looks like Messenger.
+</div>
+
+<br />
+
 <div align="center">
   <h2>Here is my streak</h2>
   <img src="https://streak-stats.demolab.com?user=thanhhoann&theme=radical&hide_border=true&card_width=501" alt="Github Sreak" /> 
