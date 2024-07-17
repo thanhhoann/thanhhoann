@@ -16,7 +16,7 @@
 
 <h2 align="center">⚡️ WIP</h2>
 <div align="left">
-  <a href="https://github.com/thanhhoann/piz">piz. </a>&nbsp;An experimental social media platform.
+  <a href="https://github.com/thanhhoann/piz">Piz</a>&nbsp;An experimental social media platform. (<a href="https://piz-docs.vercel.app/">Piz's Documentation</a>)
 </div>
 <div align="right">
   <a href="https://github.com/thanhhoann/algo_visualizer">algo_visual. </a>&nbsp;A website of hand-crafted data structures & algorithms visualizers.
