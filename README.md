@@ -24,8 +24,11 @@
 <div align="left">
   <a href="https://github.com/thanhhoann/PokeBuy">pokebuy. </a>&nbsp;A Pokémon Card store.
 </br>
-<div align="right">
+<div align="left">
   <a href="https://github.com/thanhhoann/notes">notes. </a>&nbsp;A note-taking website but looks like Messenger.
+</div>
+<div align="right">
+  <a href="#">thanhhoann_ui. </a>&nbsp;A UI library provides copy & paste TailwindCSS components with best practices.
 </div>
 
 <br />
