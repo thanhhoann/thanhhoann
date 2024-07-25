@@ -16,19 +16,19 @@
 
 <h2 align="center">⚡️ WIP</h2>
 <div align="left">
-  <a href="https://github.com/thanhhoann/piz">Piz</a>&nbsp;An experimental social media platform. (<a href="https://piz-docs.vercel.app/">Piz's Documentation</a>)
+  <a href="https://github.com/thanhhoann/piz">piz</a>&nbsp;An experimental social media platform. (<a href="https://piz-docs.vercel.app/">Piz's Documentation</a>)
 </div>
 <div align="right">
-  <a href="https://github.com/thanhhoann/algo_visualizer">algo_visual. </a>&nbsp;A website of hand-crafted data structures & algorithms visualizers.
+  <a href="https://github.com/thanhhoann/algo_visualizer">algo_visual</a>&nbsp;A website of hand-crafted data structures & algorithms visualizers.
 </div>
 <div align="left">
-  <a href="https://github.com/thanhhoann/PokeBuy">pokebuy. </a>&nbsp;A Pokémon Card store.
+  <a href="https://github.com/thanhhoann/PokeBuy">pokebuy</a>&nbsp;A Pokémon Card store.
 </br>
 <div align="left">
-  <a href="https://github.com/thanhhoann/notes">notes. </a>&nbsp;A note-taking website but looks like Messenger.
+  <a href="https://github.com/thanhhoann/notes">sticky_notes</a>&nbsp;A personalized sticky notes app.
 </div>
 <div align="right">
-  <a href="#">thanhhoann_ui. </a>&nbsp;A UI library provides copy & paste TailwindCSS components with best practices.
+  <a href="#">thanhhoann_ui</a>&nbsp;A UI library provides copy & paste TailwindCSS components with best practices.
 </div>
 
 <br />
