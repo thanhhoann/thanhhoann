@@ -95,4 +95,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#4579](https://github.com/vercel/on-demand-isr/issues/4579) in [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr)
 <!--END_SECTION:activity-->
