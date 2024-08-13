@@ -95,5 +95,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4579](https://github.com/vercel/on-demand-isr/issues/4579) in [vercel/on-demand-isr](https://github.com/vercel/on-demand-isr)
+1. 💪 Opened PR [#147](https://github.com/thanhhoann/PokeBuy/pull/147) in [thanhhoann/PokeBuy](https://github.com/thanhhoann/PokeBuy)
 <!--END_SECTION:activity-->
