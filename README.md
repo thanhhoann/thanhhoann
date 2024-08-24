@@ -95,5 +95,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/thanhhoann/piz/pull/2) in [thanhhoann/piz](https://github.com/thanhhoann/piz)
+1. 🎉 Merged PR [#4](https://github.com/thanhhoann/piz/pull/4) in [thanhhoann/piz](https://github.com/thanhhoann/piz)
 <!--END_SECTION:activity-->
