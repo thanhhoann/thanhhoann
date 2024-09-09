@@ -2,7 +2,9 @@
 
 </br>
 
-<h1 align="center">Software Engineer @ 🏠</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=500&size=30&pause=1000&color=02F755&center=true&vCenter=true&width=435&lines=Phan+%C4%90%E1%BB%89nh+Thanh+Ho%C3%A0n" alt="Typing SVG" />
+</p>
 <p align="center"> 🚀  My Ultimate Goal is to learn & make "Optimized self-built code, universally readable".</p>
 
 </br>
