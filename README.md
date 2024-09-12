@@ -97,5 +97,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/pieces-app/plugin_neovim/pull/57) in [pieces-app/plugin_neovim](https://github.com/pieces-app/plugin_neovim)
+1. 💪 Opened PR [#148](https://github.com/thanhhoann/PokeBuy/pull/148) in [thanhhoann/PokeBuy](https://github.com/thanhhoann/PokeBuy)
 <!--END_SECTION:activity-->
