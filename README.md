@@ -97,5 +97,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/thanhhoann/PokeBuy/pull/148) in [thanhhoann/PokeBuy](https://github.com/thanhhoann/PokeBuy)
+1. 💪 Opened PR [#149](https://github.com/thanhhoann/PokeBuy/pull/149) in [thanhhoann/PokeBuy](https://github.com/thanhhoann/PokeBuy)
 <!--END_SECTION:activity-->
