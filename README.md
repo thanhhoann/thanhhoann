@@ -97,5 +97,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/thanhhoann/mobile_app_project/pull/1) in [thanhhoann/mobile_app_project](https://github.com/thanhhoann/mobile_app_project)
+1. 🎉 Merged PR [#9](https://github.com/thanhhoann/mobile_app_project/pull/9) in [thanhhoann/mobile_app_project](https://github.com/thanhhoann/mobile_app_project)
 <!--END_SECTION:activity-->
