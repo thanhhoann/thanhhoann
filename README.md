@@ -97,5 +97,5 @@
 <img src="./assets/bottom.svg" alt="Bottom SVG"/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/thanhhoann/mobile_app_project/pull/9) in [thanhhoann/mobile_app_project](https://github.com/thanhhoann/mobile_app_project)
+1. 💪 Opened PR [#162](https://github.com/thanhhoann/PokeBuy/pull/162) in [thanhhoann/PokeBuy](https://github.com/thanhhoann/PokeBuy)
 <!--END_SECTION:activity-->
